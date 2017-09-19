@@ -1,0 +1,3 @@
+BaseUri: "Sample BaseURI"
+BasePath: "Sample BasePath"
+Format: "storage/{EXT}/{TOKEN}"
